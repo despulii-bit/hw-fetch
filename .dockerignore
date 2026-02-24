@@ -1,0 +1,28 @@
+# Git
+.git
+.gitignore
+
+# Python artifacts
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.tox/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Secrets and local configs
+.env
+docker-compose.override.yml
+
+# Documentation and IDEs
+.vscode/
+.idea/
+*.md
+
+# Large data or logs
+*.log

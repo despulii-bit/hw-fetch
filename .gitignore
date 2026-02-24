@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets and Config
+.env
+*.log
+
+# Docker
+.dockerignore (if you have specific docker secrets)
+
+# OS generated files
+.DS_Store
+Thumbs.db

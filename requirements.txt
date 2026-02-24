@@ -1,0 +1,8 @@
+django
+celery[redis]
+psycopg2-binary
+pydantic
+crawl4ai
+playwright
+openai
+python-dotenv
