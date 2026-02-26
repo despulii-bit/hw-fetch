@@ -1,6 +1,7 @@
 django
 celery[redis]
 psycopg2-binary
+dj-database-url
 pydantic
 crawl4ai
 playwright
